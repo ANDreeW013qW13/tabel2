@@ -1,0 +1,23 @@
+body {
+    background-color: gainsboro;
+}
+table, th, td {
+    width: 30%;
+    font-size: 24px;
+    margin: 0 auto;
+    border: 1px outset black;
+    text-align: center;
+    margin-top: 15%;
+}
+td {
+    padding: 5px;
+    width: auto;
+    border: 1px inset black;
+}
+th {
+    width: auto;
+    border: 1px inset black;
+}
+.cel1 {
+    text-align: left;
+}
